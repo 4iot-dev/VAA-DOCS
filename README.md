@@ -1,4 +1,4 @@
-# VAA-DOCS
+# VAA-community  
   
 ![Alt text](./resourse/iiit.jpg)  
   
