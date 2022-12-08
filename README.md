@@ -1,6 +1,6 @@
 # VAA-community  
   
-![Alt text](./resourse/iiit.jpg)  
+![Alt text](./resource/iiit.jpg)  
   
   此项目主要提供工业互联网标识相关技术文档。  
 主要包括注册管理机构对接指南、用户统一认证平台对接指南、微服务应用说明、国家顶级节点对接指南、标识可信认证系统说明等技术资料。
