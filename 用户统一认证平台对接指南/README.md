@@ -21,7 +21,7 @@ CPU: 2*4core 2.4G
   
 软件环境：  
 JDK 1.8及其以上  
-ssoclient-1.0.2.jar  
+ssoclient-1.0.3.jar  
 spring-context.jar  
 slf4j-api.jar  
 javax.servlet-api.jar  
@@ -31,7 +31,7 @@ hutool-all.jar
 ### 2.2 快速上手
 对接入流程进行简要说明，以java版为例子，详细接入说明见[java版-单点登录接入说明](./java版-单点登录接入说明.docx)。
 #### 2.2.1 添加jar包
-将ssoclien-1.0.2.jar添加到自己的工程中，jar包详见[ssoclient-1.0.2](./ssoclient-1.0.2.jar)。
+将ssoclien-1.0.3.jar添加到自己的工程中，jar包详见[ssoclient-1.0.3](./ssoclient-1.0.3.jar)。
 #### 2.2.2 修改application.properties配置文件
 在自己的application.properties配置文件中添加sso.server.url（sso服务器地址）、sso.client.system.code（系统接入码）、local.logout.suffix（本地服务登出后跳转的地址后缀）3个字段。
 #### 2.2.3 本地启动应用服务
