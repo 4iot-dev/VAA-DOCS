@@ -69,7 +69,7 @@ spring-web-4.3.18.RELEASE.jar
 #### 2.2.2 系统配置
 （1）在项目的application.properties文件中配置，其中:appUrl对应的是国家顶级节点epp服务的地址和端口号，shrPrefix对应的是国家顶级节点分配的二级前缀，appId 是用户保存的appId    
 ```Java
-teleinfo.eppClient.appUrl=http://172.17.3.65:7002/
+teleinfo.eppClient.appUrl=http://172.xx.x.xx:xxxx/
 teleinfo.eppClient.shrPrefix=88.104
 teleinfo.eppClient.appId = 5K4gCPDxRoWqJX3vtfdXDZh4WTgNnQjHsH5oj5KZYiAf
 ```
